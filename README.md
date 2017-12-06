@@ -1,7 +1,7 @@
 # music_sanitizer
 Cleanse media filename and correct metadata
 
-usage: RN.py [-h] [-d _DELETE] [-r REPLACE] dir  
+usage: python sanitize.py [-h] [-d _DELETE] [-r REPLACE] dir  
 
 Mp3 and FLAC filename fixer  
 
